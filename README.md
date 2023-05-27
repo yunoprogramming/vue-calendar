@@ -1,4 +1,8 @@
 # vue-calendar
+```
+improvements that can be made include user authentication and drag & drop functionality
+```
+
 
 ## Project setup
 ```
